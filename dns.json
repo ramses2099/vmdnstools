@@ -1,0 +1,122 @@
+[
+  {
+    "name": "tableful-948b5565-prod-vm",
+    "id": "1129",
+    "ip": "10.10.3.250",
+    "zone": "example.com"
+  },
+  {
+    "name": "frays-e0bb93fa-prod-vm",
+    "id": "1207",
+    "ip": "10.10.15.99",
+    "zone": "example.org"
+  },
+  {
+    "name": "stomp-90ea1770-stage-vm",
+    "id": "1627",
+    "ip": "10.10.8.116",
+    "zone": "example.org"
+  },
+  {
+    "name": "kilometer-eb80b27c-prod-vm",
+    "id": "1483",
+    "ip": "10.10.8.240",
+    "zone": "example.net"
+  },
+  {
+    "name": "quintuple-dc2e2f43-dev-vm",
+    "id": "1591",
+    "ip": "10.10.13.96",
+    "zone": "example.org"
+  },
+  {
+    "name": "goofy-b8213836-dev-vm",
+    "id": "1166",
+    "ip": "10.10.13.59",
+    "zone": "example.org"
+  },
+  {
+    "name": "monogram-4716d577-dev-vm",
+    "id": "1735",
+    "ip": "10.10.3.40",
+    "zone": "example.net"
+  },
+  {
+    "name": "trekker-49b66151-qa-vm",
+    "id": "1552",
+    "ip": "10.10.3.33",
+    "zone": "example.org"
+  },
+  {
+    "name": "pretzel-f5ec663c-prod-vm",
+    "id": "1008",
+    "ip": "10.10.2.94",
+    "zone": "example.com"
+  },
+  {
+    "name": "linked-e207a626-dev-vm",
+    "id": "1338",
+    "ip": "10.10.10.184",
+    "zone": "example.net"
+  },
+  {
+    "name": "dance-06126802-dev-vm",
+    "id": "1663",
+    "ip": "10.10.3.112",
+    "zone": "example.com"
+  },
+  {
+    "name": "smudge-e153696e-stage-vm",
+    "id": "1459",
+    "ip": "10.10.10.173",
+    "zone": "example.com"
+  },
+  {
+    "name": "imminent-aa2474a2-dev-vm",
+    "id": "1225",
+    "ip": "10.10.5.79",
+    "zone": "example.com"
+  },
+  {
+    "name": "conical-7770843b-dev-vm",
+    "id": "1405",
+    "ip": "10.10.15.15",
+    "zone": "example.com"
+  },
+  {
+    "name": "monogamy-03aab55a-stage-vm",
+    "id": "1605",
+    "ip": "10.10.4.220",
+    "zone": "example.net"
+  },
+  {
+    "name": "payday-3360d154-qa-vm",
+    "id": "1492",
+    "ip": "10.10.12.138",
+    "zone": "example.net"
+  },
+  {
+    "name": "denim-92db12e8-dev-vm",
+    "id": "1080",
+    "ip": "10.10.9.160",
+    "zone": "example.org"
+  },
+  {
+    "name": "stunned-ec4acec6-qa-vm",
+    "id": "1920",
+    "ip": "10.10.8.102",
+    "zone": "example.net"
+  },
+  {
+    "name": "creamlike-6b41094f-dev-vm",
+    "id": "1839",
+    "ip": "10.10.7.204",
+    "zone": "example.org"
+  },
+  {
+    "name": "coffee-fcc5c1c3-qa-vm",
+    "id": "1202",
+    "ip": "10.10.9.143",
+    "zone": "example.com"
+  }
+]

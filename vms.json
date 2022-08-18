@@ -1,0 +1,181 @@
+  {
+    "name": "trekker-49b66151-qa-vm",
+    "id": "1615",
+    "ip": "10.10.3.33",
+    "region": "eu-north1",
+    "labels": {
+      "dns-zone": "example.org"
+    }
+  },
+  {
+    "name": "stunned-ec4acec6-qa-vm",
+    "id": "1811",
+    "ip": "10.10.8.102",
+    "region": "africa-south3",
+    "labels": {
+      "dns-zone": "example.net"
+    }
+  },
+  {
+    "name": "monogamy-03aab55a-stage-vm",
+    "id": "1090",
+    "ip": "10.10.4.220",
+    "region": "us-central2",
+    "labels": {
+      "dns-zone": "example.net"
+    }
+  },
+  {
+    "name": "smudge-e153696e-stage-vm",
+    "id": "1263",
+    "ip": "10.10.10.173",
+    "region": "us-north2",
+    "labels": {
+      "dns-zone": "example.com"
+    }
+  },
+  {
+    "name": "payday-3360d154-qa-vm",
+    "id": "1669",
+    "ip": "10.10.12.138",
+    "region": "eu-central1",
+    "labels": {
+      "dns-zone": "example.net"
+    }
+  },
+  {
+    "name": "imminent-aa2474a2-dev-vm",
+    "id": "1348",
+    "ip": "10.10.5.79",
+    "region": "eu-central2",
+    "labels": {
+      "dns-zone": "example.com"
+    }
+  },
+  {
+    "name": "monogram-4716d577-dev-vm",
+    "id": "1590",
+    "ip": "10.10.3.40",
+    "region": "eu-central3",
+    "labels": {
+      "dns-zone": "example.net"
+    }
+  },
+  {
+    "name": "stomp-90ea1770-stage-vm",
+    "id": "1848",
+    "ip": "10.10.8.116",
+    "region": "us-north1",
+    "labels": {
+      "dns-zone": "example.org"
+    }
+  },
+  {
+    "name": "kilometer-eb80b27c-prod-vm",
+    "id": "1864",
+    "ip": "10.10.8.240",
+    "region": "eu-east3",
+    "labels": {
+      "dns-zone": "example.net"
+    }
+  },
+  {
+    "name": "coffee-fcc5c1c3-qa-vm",
+    "id": "1393",
+    "ip": "10.10.9.143",
+    "region": "eu-west3",
+    "labels": {
+      "dns-zone": "example.com"
+    }
+  },
+  {
+    "name": "goofy-b8213836-dev-vm",
+    "id": "1699",
+    "ip": "10.10.13.59",
+    "region": "us-west1",
+    "labels": {
+      "dns-zone": "example.org"
+    }
+  },
+  {
+    "name": "pretzel-f5ec663c-prod-vm",
+    "id": "1375",
+    "ip": "10.10.2.94",
+    "region": "us-north3",
+    "labels": {
+      "dns-zone": "example.com"
+    }
+  },
+  {
+    "name": "creamlike-6b41094f-dev-vm",
+    "id": "1919",
+    "ip": "10.10.7.204",
+    "region": "eu-south3",
+    "labels": {
+      "dns-zone": "example.org"
+    }
+  },
+  {
+    "name": "quintuple-dc2e2f43-dev-vm",
+    "id": "1889",
+    "ip": "10.10.13.96",
+    "region": "us-north2",
+    "labels": {
+      "dns-zone": "example.org"
+    }
+  },
+  {
+    "name": "conical-7770843b-dev-vm",
+    "id": "1660",
+    "ip": "10.10.15.15",
+    "region": "africa-north2",
+    "labels": {
+      "dns-zone": "example.com"
+    }
+  },
+  {
+    "name": "linked-e207a626-dev-vm",
+    "id": "1516",
+    "ip": "10.10.10.184",
+    "region": "africa-west1",
+    "labels": {
+      "dns-zone": "example.net"
+    }
+  },
+  {
+    "name": "dance-06126802-dev-vm",
+    "id": "1929",
+    "ip": "10.10.3.112",
+    "region": "eu-central1",
+    "labels": {
+      "dns-zone": "example.com"
+    }
+  },
+  {
+    "name": "frays-e0bb93fa-prod-vm",
+    "id": "1190",
+    "ip": "10.10.15.99",
+    "region": "africa-south2",
+    "labels": {
+      "dns-zone": "example.org"
+    }
+  },
+  {
+    "name": "denim-92db12e8-dev-vm",
+    "id": "1028",
+    "ip": "10.10.9.160",
+    "region": "eu-north2",
+    "labels": {
+      "dns-zone": "example.org"
+    }
+  },
+  {
+    "name": "tableful-948b5565-prod-vm",
+    "id": "1368",
+    "ip": "10.10.3.250",
+    "region": "us-north1",
+    "labels": {
+      "dns-zone": "example.com"
+    }
+  }
+]

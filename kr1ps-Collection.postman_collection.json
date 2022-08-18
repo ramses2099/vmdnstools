@@ -1,0 +1,47 @@
+{
+	"info": {
+		"_postman_id": "59eb0b16-74d9-460a-a7ee-dbc146328dda",
+		"name": "kr1ps-Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4967416"
+	},
+	"item": [
+		{
+			"name": "utopia-get",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "?C8`R5`!83l/f~U%>}%V",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "code-test",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://sc.kr1ps.com/api/resource/vm",
+					"protocol": "http",
+					"host": [
+						"sc",
+						"kr1ps",
+						"com"
+					],
+					"path": [
+						"api",
+						"resource",
+						"vm"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
